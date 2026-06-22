@@ -1,2 +1,2 @@
-# Better-NBS
-NBS made in godot
+# Better Note Block Studio
+
